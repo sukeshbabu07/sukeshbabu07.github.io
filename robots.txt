@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sukeshbabu07.github.io/sitemap.xml
+
